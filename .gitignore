@@ -439,7 +439,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-KominApp/appsettings.json
+WebAPI/appsettings.json
 
 # JetBrains Rider
 .idea/
